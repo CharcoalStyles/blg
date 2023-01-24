@@ -1,0 +1,12 @@
+{
+  "name": "blg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "eleventy --serve"
+  },
+  "devDependencies": {
+    "luxon": "^3.2.1"
+  }
+}
